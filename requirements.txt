@@ -1,0 +1,5 @@
+Flask
+pandas
+supabase
+python-dateutil
+gunicorn
